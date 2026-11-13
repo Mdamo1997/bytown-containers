@@ -1,0 +1,3 @@
+Q1: It was deleted along with the container since there was no volume to store the data.
+Q2: Because it communicates on exterior networks via the Proxy container. 
+Q3: An image is an applications software, whereas a container is a running instance created from the image. 
